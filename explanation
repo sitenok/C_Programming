@@ -1,0 +1,9 @@
+Assignment 2, Lottery Game.
+Program displays a menu with 6 options. 
+1- Enter 6 numbers. 
+2- Display numbers. 
+3- Sort the numbers.
+4- Compare guesses to winning numbers. 
+5- Display the frequency of chosen numbers. 
+6- Exit program(graceful finish)
+        
