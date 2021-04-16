@@ -6,4 +6,4 @@ Exam 1 =
     
 Exam 2 =
     A menu driven program which plays a Bingo game. An array of randomly selected numbers is compared
-    to the user's array of selected numbers. If all numbers match, player wins Bingo
+    to the user's array of selected numbers. If all numbers match, player wins Bingo!
