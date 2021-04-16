@@ -1,1 +1,3 @@
 Using Dynamic Memory Allocation
+A program that uses dynamic memory allocation to allocate memory for 5 floating-point numbers
+and finds the average.
