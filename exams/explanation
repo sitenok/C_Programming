@@ -1,0 +1,9 @@
+Exam 1 =
+    A menu driven program which generates a code by allowing a user to enter a 4 digits code.
+    Compares the 4 digit number to the access code.
+    The codes are encrypted and decrypted by a certain algorithm. 
+    The number of access attempted are recorded using a structure.
+    
+Exam 2 =
+    A menu driven program which plays a Bingo game. An array of randomly selected numbers is compared
+    to the user's array of selected numbers. If all numbers match, player wins Bingo
