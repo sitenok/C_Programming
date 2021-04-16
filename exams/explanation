@@ -5,5 +5,12 @@ Exam 1 =
     The number of access attempted are recorded using a structure.
     
 Exam 2 =
-    A menu driven program which plays a Bingo game. An array of randomly selected numbers is compared
-    to the user's array of selected numbers. If all numbers match, player wins Bingo!
+    A menu driven program which plays a Bingo game. 
+       1. Enter player's 6 numbers
+       2. Generate game's 6 random numbers
+       3. Display player and game number sets (in increasing order) 
+       4. Compare the player and game numbers
+       5. Display frequency of the game's generated numbers
+       6. End Program
+    An array of randomly selected numbers is compared to the user's array of selected numbers. 
+    If all numbers match, player wins Bingo!
