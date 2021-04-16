@@ -1,0 +1,7 @@
+Strings Continued.
+1. Display String = Program to display an array of pointer strings,
+an array of pointers which point to the start of each memory address of each string.
+
+2. Q9 Compare = Program to compare the elements of a string array to input.
+
+3. Q10 Digit String = A string array of digits, allowing user 
